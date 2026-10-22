@@ -1,4 +1,4 @@
-# Codex Pet — Windows 첫 버전
+# DesktopPET— Windows 첫 버전
 
 `app/DesktopPet.exe`를 더블클릭하세요. 현재 PC에 설치된 .NET Desktop Runtime 10을 사용합니다.
 다른 PC에서는 해당 런타임이 필요합니다. 자동 시작 등록은 하지 않습니다.
